@@ -299,7 +299,6 @@ USE WAREHOUSE demo_build_wh;
     country,
     iso_currency,
     iso_country,
-    city_id,
     city,
     city_population
    )
